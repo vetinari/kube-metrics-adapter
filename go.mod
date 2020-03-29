@@ -6,7 +6,11 @@ require (
 	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/influxdata/influxdb-client-go v0.1.5
 	github.com/kubernetes-incubator/custom-metrics-apiserver v0.0.0-20200323093244-5046ce1afe6b
+	github.com/lib/pq v1.2.0 // indirect
+	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852
+	github.com/onsi/ginkgo v1.11.0 // indirect
+	github.com/onsi/gomega v1.8.1 // indirect
 	github.com/prometheus/client_golang v1.0.0
 	github.com/prometheus/common v0.4.1
 	github.com/sirupsen/logrus v1.5.0
@@ -15,6 +19,10 @@ require (
 	github.com/zalando-incubator/cluster-lifecycle-manager v0.0.0-20180921141935-824b77fb1f84
 	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975 // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
+	golang.org/x/sys v0.0.0-20190922100055-0a153f010e69 // indirect
+	golang.org/x/tools v0.0.0-20200204192400-7124308813f3 // indirect
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
+	honnef.co/go/tools v0.0.1-2020.1.3 // indirect
 	k8s.io/api v0.17.3
 	k8s.io/apimachinery v0.17.4
 	k8s.io/client-go v0.17.3
